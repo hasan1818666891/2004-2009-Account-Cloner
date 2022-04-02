@@ -21,7 +21,7 @@ CONTACT WITH <a href="https://github.com/Khalid2009sm"><b>KHALID SHAIFULLAH</a> 
   </a>
 <br>
   <a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Khalid2009sm/.svg"/>
+    <img alt="Language" src="https://img.shields.io/github/languages/count/Khalid2009sm/2004-2009-Account-Cloner.svg"/>
   </a>
   <a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
     <img alt="Starts" src="https://img.shields.io/github/stars/Khalid2009sm/2004-2009-Account-Cloner.svg"/>
