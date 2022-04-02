@@ -16,24 +16,24 @@ CONTACT WITH <a href="https://github.com/Khalid2009sm"><b>KHALID SHAIFULLAH</a> 
 
 <br>
   <a href="https://github.com/Khalid2009sm/termux-style/stargazers/">
-  <a href="https://github.com/Khalid2009sm/Pak-Cloner">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Khalid2009sm/Pak-Cloner.svg"/>
+  <a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Khalid2009sm/2004-2009-Account-Cloner.svg"/>
   </a>
 <br>
-  <a href="https://github.com/Khalid2009sm/Pak-Cloner">
+  <a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
     <img alt="Language" src="https://img.shields.io/github/languages/count/Khalid2009sm/Pak-Cloner.svg"/>
   </a>
-  <a href="https://github.com/Khalid2009sm/Pak-Cloner">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Azim-vau/Pak-Cloner.svg"/>
+  <a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
+    <img alt="Starts" src="https://img.shields.io/github/stars/Khalid2009sm/2004-2009-Account-Cloner.svg"/>
   </a>
 <br>
-<a href="https://github.com/Khalid2009sm/Pak-Cloner">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Khalid2009sm/Pak-Cloner.svg"/>
+<a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Khalid2009sm/2004-2009-Account-Cloner.svg"/>
   </a>
 <br>
-<a href="https://github.com/Khalid2009sm/Pak-Cloner">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Khalid2009sm/Pak-Cloner.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/fcpromax">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Khalid2009sm/Pak-Cloner.svg"/>
+<a href="https://github.com/Khalid2009sm/2004-2009-Account-Cloner">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Khalid2009sm/2004-2009-Account-Cloner.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/fcpromax">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Khalid2009sm/2004-2009-Account-Cloner.svg"/>
   </a>
 </div>
 
