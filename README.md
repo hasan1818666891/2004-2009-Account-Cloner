@@ -12,7 +12,7 @@ CONTACT WITH <a href="https://github.com/Khalid2009sm"><b>KHALID SHAIFULLAH</a> 
 
 
 <a href="https://github.com/Khalid2009sm/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/htr-tech?label=Followers&color=blue&style=flat-square"></a>
+<img title="Followers" src="https://img.shields.io/github/followers/Khalid2009sm?label=Followers&color=blue&style=flat-square"></a>
 
 <br>
   <a href="https://github.com/Khalid2009sm/termux-style/stargazers/">
